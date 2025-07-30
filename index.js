@@ -10,7 +10,7 @@ function createWindow() {
   });
 
   // YouTube video URL
-  const youtubeURL = 'https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1';
+  const youtubeURL = 'https://www.youtube.com/watch?v=0BUuA8-O6Jg';
   win.loadURL(youtubeURL);
 }
 
